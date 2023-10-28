@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanvithasacharya" alt="sanvithasacharya" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **web designing**
 
 - 📫 How to reach me **acharyasanvitha@gmail.com**
 
-- ⚡ Fun fact **I am simple like quantum physics**
+- ⚡ Fun fact **I am simple as quantum physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
